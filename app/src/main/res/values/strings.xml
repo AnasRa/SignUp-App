@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="please_enter_you_name">Please Enter you Name</string>
+    <string name="submit">Submit</string>
+    <string name="this_is_your_name">This is your Name:</string>
+    <string name="Click_Here_to_Enter_Another_Name">Click Here to Enter Another Name</string>
+    <string name="Please_Enter_a_Valid_Name">Please Enter a Valid Name!</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="myname_example_com">myname@example.com</string>
+    <string name="password">Password</string>
+    <string name="welcome_to_the_app">Welcome To The App</string>
+    <string name="let_s_get_started">Sign Up</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="please_confirm_your_information">Please Confirm Your Information</string>
+    <string name="email">Email</string>
+    <string name="place_holder">place holder</string>
+    <string name="confirm">Confirm</string>
+    <string name="registration_succeed">Registration Succeed</string>
+    <string name="next">Next</string>
+    <string name="clear">clear</string>
+    <string name="see_all_registerers">See All Registerers</string>
+    <string name="registered_at">Registered at:</string>
+</resources>
